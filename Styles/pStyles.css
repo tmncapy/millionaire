@@ -1,0 +1,177 @@
+p {
+	margin:auto;
+	position:absolute;
+	letter-spacing:0px;
+}
+
+e {
+	margin:auto;
+	position:absolute;
+	letter-spacing:0px;
+}
+
+.answerP {
+	font-size:28pt;
+	font-family:Verdana;
+	color:#FFFFFF;
+	left:126px;
+	top:26px;
+	letter-spacing:-1px;
+	opacity:0;
+	-moz-opacity:0;
+	-webkit-opacity:0;
+}
+
+.letterA {
+	font-size:28pt;
+	font-family:Verdana;
+	color:#dfdfdf;
+	left:45px;
+	top:370px;
+	letter-spacing:-1px;
+	font-weight:bold;
+	opacity:1;
+	-moz-opacity:0;
+	-webkit-opacity:0;
+	text-shadow:1px 1px 0px black;
+}
+.letterB {
+	font-size:28pt;
+	font-family:Verdana;
+	color:#dfdfdf;
+	left:33px;
+	top:370px;
+	letter-spacing:-1px;
+	font-weight:bold;
+	opacity:1;
+	-moz-opacity:0;
+	-webkit-opacity:0;
+	text-shadow:1px 1px 0px black;
+}
+.letterC {
+	font-size:28pt;
+	font-family:Verdana;
+	color:#dfdfdf;
+	left:33px;
+	top:370px;
+	letter-spacing:-1px;
+	font-weight:bold;
+	opacity:1;
+	-moz-opacity:0;
+	-webkit-opacity:0;
+	text-shadow:1px 1px 0px black;
+}
+.letterD {
+	font-size:28pt;
+	font-family:Verdana;
+	color:#dfdfdf;
+	left:33px;
+	top:370px;
+	letter-spacing:-1px;
+	font-weight:bold;
+	opacity:1;
+	-moz-opacity:0;
+	-webkit-opacity:0;
+	text-shadow:1px 1px 0px black;
+}
+
+.ataPercentStrapP { 
+	width:146px;
+	text-align:center;
+	font-size:25pt;
+	font-family:Verdana;
+	color:white;
+	top:18px;
+}
+
+.contestantNameP {
+	font-size:40pt;
+	font-family:Verdana;
+	color:white;
+	text-align:center;
+	letter-spacing:3px;
+	width:900px;
+	left:0px;
+	right:0px;
+	top:65px;
+}
+
+.contestantLocationP {
+	font-size:35pt;
+	font-family:Verdana;
+	color:#FF8000;
+	text-align:center;
+	width:900px;
+	left:0px;
+	right:0px;
+	bottom:65px;
+}
+
+.fastestContestantNameP {
+	font-size:35pt;
+	font-family:Verdana;
+	color:#FFFFFF;
+	top:21px;
+	left:445px;
+	letter-spacing:2px;
+	text-shadow:1px 1px 0px black;
+}
+
+.fastestContestantTimeP {
+	font-size:35pt;
+	font-family:Verdana;
+	color:#FFFFFF;
+	top:21px;
+	right:445px;
+	letter-spacing:2px;
+	text-shadow:1px 1px 0px black;
+}
+
+.fastestFingerTreeQuestionP {
+	color:white;
+	font-family:Verdana;
+	font-size:28pt;
+	letter-spacing:-1px;
+}
+
+.fastestTreeLetterP {
+	font-size:28pt;
+	font-family:Verdana;
+	color:#FF8000;
+	left:65px;
+	top:26px;
+	letter-spacing:-1px;
+}
+
+.fastestTreeAnswerP{
+	font-size:28pt;
+	font-family:Verdana;
+	color:#FFFFFF;
+	left:115px;
+	top:26px;
+	letter-spacing:-1px;
+}
+
+.letterP {
+	font-size:28pt;
+	font-family:Verdana;
+	color:#FF8000;
+	left:75px;
+	top:26px;
+	letter-spacing:-1px;
+	opacity:0;
+	-moz-opacity:0;
+	-webkit-opacity:0;
+}
+
+.winningsP {
+	color:#FFFFFF;
+	font-family:Verdana;
+	font-size:72pt;
+	text-align:center;
+	width:1000px;
+	left:0px;
+	right:0px;
+	top:43px;
+	font-weight: bolder;
+}
